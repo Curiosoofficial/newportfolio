@@ -39,7 +39,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text.sm md:text-lg lg:text-2xl">
-            Hi, I&apos;m Luka, a Next.Js developer based in switzerland
+            Hi, I&apos;m Luka Stefanovic, a Next.Js developer based in Switzerland
           </p>
 
           <a href="#about">

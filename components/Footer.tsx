@@ -9,7 +9,7 @@ const Footer = () => {
         
 
         <div className="flex flex-col items-center">
-            <h1 className="heading lg:max-w-[45vw]">Rady to take <span className="text-purple">your </span> Digital Presence to the next level</h1>
+            <h1 className="heading lg:max-w-[45vw]">Ready to take <span className="text-purple">Your </span> Digital Presence to the next level</h1>
             <p className="text-center text-white-200 md:mt-10 my-5">Reach out to me today and let&apos;s discuss how I can help you achieve your goals</p>
             <a href="mailto:contact@webdevbyluka.com">
                 <MagicButton 
